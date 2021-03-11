@@ -1,3 +1,3 @@
-This is the first edit of text2.
+This is an over-write edit made on the test-branch.
 
 A new line of text added 14.17
